@@ -2,6 +2,7 @@
 
 **"Titans: Learning to Memorize at Test Time"**, which introduces the **Titans** architecture, a novel framework for handling long-term dependencies, large contexts, and efficient memory management in deep learning models.
 
+paper link: [Titan](https://file.notion.so/f/f/6c548076-e1b4-4682-965a-d6ec06be4952/98161ecc-e642-4f99-9511-b5931a069670/Titans_Learning_to_Memorize_at_Test_Time_2501.00663v1.pdf?table=block&id=17d07c38-7075-80ad-81fa-e8b0df5b2813&spaceId=6c548076-e1b4-4682-965a-d6ec06be4952&expirationTimestamp=1737057600000&signature=wqj5ZQDiN46ecOLGMiEWrsqQ0yS_Nm7tmn9VPkT5TPs&downloadName=Titans+Learning+to+Memorize+at+Test+Time+2501.00663v1.pdf)
 
 ---
 
